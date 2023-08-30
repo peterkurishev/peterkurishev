@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter A. Kurishev
 - 👀 I’m interested in software development using wide range of available tools.
 - 🌱 I’m currently learning Golang.
-- 💞️ I’m yheaching children to develop software.
+- 💞️ I’m teaching children to develop software.
 - 📫 How to reach me: peter@kurishev.ru
 
 <!---
